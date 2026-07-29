@@ -52,7 +52,7 @@ If the above fix is apllied to one's project then the servo count adds up to 6 i
 
 ---
 
-⚠️Component connections is provided in the folder Connections
+⚠️Component connections is provided in the folder src(Source Code)
 
 ---
 ## 📂 Project Layout
