@@ -64,7 +64,7 @@ ranjax/
 ├── .gitignore              # Git clean-up filter
 ├── hardware/               # 3D printable STL files
 ├── src/                    # Source Code
-│   ├── ranjax_main.ino     # Main loop
 │   ├── gestures.h          # Gesture angles & functions
 │   └── config.h            # Pin definitions & servo limits
-└── examples/               # Calibration utilities
+|   └── calibration.h       # Manual calibration code
+├── Pictures
