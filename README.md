@@ -51,6 +51,10 @@ If the above fix is apllied to one's project then the servo count adds up to 6 i
 **Photos of the Robotic hand and the alterations is provided**
 
 ---
+
+⚠️Component connections is provided in the folder Connections
+
+---
 ## 📂 Project Layout
 
 ```text
