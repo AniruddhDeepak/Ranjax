@@ -39,7 +39,7 @@ A 3D-printed, Arduino-controlled robotic hand built for multi-finger movement an
 
 ---
 
-*For more precise steps and components refer the link below*
+*For more precise steps and components refer the link*
 https://www.instructables.com/3D-Printed-Robotic-Arm-2/
 
 ---
