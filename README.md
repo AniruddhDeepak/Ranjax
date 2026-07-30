@@ -33,6 +33,8 @@ A 3D-printed, Arduino-controlled robotic hand built for multi-finger movement an
 
 |Lithium-Ion Battery Holder|1|Dual cell holder is recommended
 
+| M3 Screws and nuts for mounting the servo holder to the forearm
+
 ---
 
 ⚠️ **Important**: Always power the servos using a dedicated external power supply with a **common ground** connected to the Arduino. Do not power multiple servos directly off the Arduino 5V pin!
